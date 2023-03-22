@@ -1,3 +1,10 @@
+#Python code that generates the Fibonacci sequence up to the nth term, where n is provided by the user:
+
+
+
+
+
+
 # Get the value of n from the user
 n = int(input("Enter the number of terms you want to generate: "))
 

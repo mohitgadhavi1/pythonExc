@@ -1,8 +1,8 @@
 '''
 In Python, both overloading and overriding are
- supported, but they work slightly differently 
- than in some other object-oriented programming 
- languages.
+supported, but they work slightly differently 
+than in some other object-oriented programming 
+languages.
 
 Overloading in Python refers to the ability to 
 define multiple methods or functions with the 

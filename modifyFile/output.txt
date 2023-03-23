@@ -1,0 +1,7 @@
+Decorators:
+Decorators are functions that modify the
+ behavior of other functions without changing
+their source code. They take a function 
+ as input and return a new function that 
+adds some additional functionality to 
+ the original function.hello world
